@@ -2,7 +2,7 @@
 
 ## Why?
 
-This project was made for the roadmap.sh website. It is my first project on the website. It is a simple guessing game where you have to guess a number from 1 to 100, written in the go programming language using vscode. It has no extra dependencies other than go itself. 
+This project was made for the roadmap.sh website. It is my first project on the website. It is a simple guessing game where you have to guess a number from 1 to 100, written in the go programming language using vscode. It has no extra dependencies other than go itself. https://roadmap.sh/projects/number-guessing-game
 
 ## Installation
 
