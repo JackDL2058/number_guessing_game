@@ -11,8 +11,8 @@ This project was made for the roadmap.sh website. It is my first project on the 
 
 ### Steps
 
-open a terminal
-cd to your desktop or wherever you want to store the file
+open a terminal,
+cd to your desktop or wherever you want to store the file by using ```cd path/to/location/to/store/file```
 
 ```bash
 git clone https://github.com/JackDL2058/number_guessing_game.git
